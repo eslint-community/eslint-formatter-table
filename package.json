@@ -1,6 +1,6 @@
 {
 	"name": "eslint-formatter-table",
-	"version": "7.32.0",
+	"version": "7.32.1",
 	"description": "ESLint’s official `table` formatter, extracted from ESLint 7",
 	"keywords": [
 		"lint",
