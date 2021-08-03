@@ -10,7 +10,7 @@
 
 const assert = require("chai").assert;
 const chalk = require("chalk");
-const formatter = require("../../../../lib/cli-engine/formatters/table");
+const formatter = require(".");
 
 //------------------------------------------------------------------------------
 // Tests
