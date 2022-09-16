@@ -1,31 +1,31 @@
 {
-	"name": "eslint-formatter-table",
-	"version": "7.32.1",
-	"description": "ESLint’s official `table` formatter, extracted from ESLint 7",
-	"keywords": [
-		"lint",
-		"javascript",
-		"ecmascript"
-	],
-	"repository": "fregante/eslint-formatter-table",
-	"license": "MIT",
-	"author": "Nicholas C. Zakas <nicholas+npm@nczconsulting.com>",
-	"dependencies": {
-		"chalk": "^4.0.0",
-		"table": "^6.0.9"
-	},
-	"engines": {
-		"node": "^10.12.0 || >=12.0.0"
-	},
-	"files": [
-		"index.js",
-		"index.d.ts"
-	],
-	"scripts": {
-		"test": "mocha"
-	},
-	"devDependencies": {
-		"chai": "^4.3.4",
-		"mocha": "^9.0.3"
-	}
+  "name": "eslint-formatter-table",
+  "version": "7.32.1",
+  "description": "ESLint’s official `table` formatter, extracted from ESLint 7",
+  "keywords": [
+    "lint",
+    "javascript",
+    "ecmascript"
+  ],
+  "repository": "fregante/eslint-formatter-table",
+  "license": "MIT",
+  "author": "Nicholas C. Zakas <nicholas+npm@nczconsulting.com>",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "table": "^6.8.0"
+  },
+  "engines": {
+  "node": "^10.12.0 || >=12.0.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+  "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
 }
